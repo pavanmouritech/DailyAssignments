@@ -1,0 +1,80 @@
+1. Which of the following option leads to the portability and security of Java?
+
+    A. Bytecode is executed by JVM
+
+2. Which of the following is not a Java features?
+  
+    C. Use of pointers
+   
+3. Which is a valid keyword in java?
+
+    A. interface
+ 
+4. What is the default value of double variable?
+
+    A. 0.0d
+ 
+5. What kind of variables a class can consist of?
+   
+    B. class variable, local variable, instance variable
+ 
+6. What is the default value of Object variable?
+ 
+    C. null     
+    
+7. What is the size of float variable?
+  
+    C. 32 bit
+   
+8. Method Overloading is an example of?
+
+    A. Static Binding
+ 
+9. What will happen if static modifier is removed from the signature of the main method?
+   
+    C. Program will compile and run without any output
+    
+10. What is Serialization?
+   
+    B. Serialization is the process of writing the state of an object to a byte stream
+    
+11. What is a class in Java?
+
+    A. A class is a blue print from which individual objects are created. A class can contain fields and methods to describe the behavior of an object.
+ 
+12. Method Overriding
+   
+    B. Mutable variable
+ 
+13. What is Abstraction?
+
+    D. None of the above
+ 
+14. Which three are valid declarations of a char??
+
+    A. char c1 = 'face';
+
+15. Which built-in method combines the text of two strings and returns a new string?
+   
+    B. concat()
+ 
+16. Which is the valid declarations within an interface definition?
+
+    A.     public double methoda();
+ 
+17. Which of the following is an IF statement in Java?
+    
+    C. if (i == 5)
+    
+18. Which of the following is not a reserved word in Java?
+   
+    C. program
+ 
+19. Who invented Java language?
+   
+    B. James Gosling
+ 
+20. What is the original name of Java Programming language?
+   
+    C. Oak
+   
